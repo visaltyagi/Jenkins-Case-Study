@@ -8,16 +8,16 @@
 
 **Step 4:** Create a “Develop” Branch & Push it into the “GitHub” Repository
 
-**Step 5: ** Install Docker Over Jenkins-Master Machine to Implement the Jenkins Pipeline
+**Step 5:** Install Docker Over Jenkins-Master Machine to Implement the Jenkins Pipeline
 
 **Step 6:** Create a Webhook for Trigger the Jobs
 
 **Step 7:** Create a Develop Job & Don’t Publish It
 
-**Step 8: ** Create a Master Job
+**Step 8:** Create a Master Job
 
-**Step 9: ** Create a Dockerfile & Push it into the “Master” Branch
+**Step 9:** Create a Dockerfile & Push it into the “Master” Branch
 
-**Step 10: ** Put the docker commands in the Build Steps.
+**Step 10:** Put the docker commands in the Build Steps.
 
 **Step 11:** Pipeline will be successfully triggered. 
